@@ -1,0 +1,19 @@
+body{
+    background-color:pink;
+}
+
+#myLabel{
+    text-align:center;
+    font-size:3em;
+    padding:300px;
+}
+#div{
+    text-align:center;
+}
+#div1{
+    text-align:center;
+}
+
+#div1:hover{
+    color:aqua;
+}
